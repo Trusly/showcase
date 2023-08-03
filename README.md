@@ -1,7 +1,8 @@
-# This was created with React, Node.js, typescript and gh-pages
+# React project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Featuring typescript and gh-pages.
 
-# My Application testing ground
+# Hyperlink to page
 
 [CLick here to go to webpage](https://trusly.github.io/showcase/)
